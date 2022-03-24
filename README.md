@@ -44,7 +44,7 @@
 <ul>
 <li>Submit new issue</li>
 <li>pm me in gmail</li>
-<li>do you want ask about all my tools ? you can add me in <a href="https://instagram.com/ye_hack</a></li>
+<li>do you want ask about all my tools ? you can add me in  instagram : ye_hack</a></li>
 </ul>
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
